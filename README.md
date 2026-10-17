@@ -69,3 +69,15 @@ There will be easy problems, difficult problems, mistakes, and moments when a co
 Thanks for visiting my repository! 😊
 
 *Happy coding!* 💻
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/1109sahilpatel/LeetCode/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/1109sahilpatel/LeetCode/tree/master/0066-plus-one) |
+<!---LeetCode Topics End-->
