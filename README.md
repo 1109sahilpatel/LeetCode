@@ -80,6 +80,7 @@ Thanks for visiting my repository! 😊
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/1109sahilpatel/LeetCode/tree/master/0066-plus-one) |
+| [2235-add-two-integers](https://github.com/1109sahilpatel/LeetCode/tree/master/2235-add-two-integers) |
 ## Tree
 |  |
 | ------- |
