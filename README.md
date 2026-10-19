@@ -76,6 +76,7 @@ Thanks for visiting my repository! 😊
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/1109sahilpatel/LeetCode/tree/master/0066-plus-one) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/1109sahilpatel/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -114,4 +115,12 @@ Thanks for visiting my repository! 😊
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/1109sahilpatel/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/1109sahilpatel/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
