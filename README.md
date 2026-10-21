@@ -158,4 +158,12 @@ Thanks for visiting my repository! 😊
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/1109sahilpatel/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/1109sahilpatel/LeetCode/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/1109sahilpatel/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
