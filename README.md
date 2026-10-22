@@ -83,6 +83,7 @@ Thanks for visiting my repository! 😊
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/1109sahilpatel/LeetCode/tree/master/0066-plus-one) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/1109sahilpatel/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/1109sahilpatel/LeetCode/tree/master/2235-add-two-integers) |
 ## Tree
 |  |
@@ -168,4 +169,5 @@ Thanks for visiting my repository! 😊
 | ------- |
 | [0191-number-of-1-bits](https://github.com/1109sahilpatel/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/1109sahilpatel/LeetCode/tree/master/0338-counting-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/1109sahilpatel/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
