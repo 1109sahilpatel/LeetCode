@@ -154,6 +154,7 @@ Thanks for visiting my repository! 😊
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/1109sahilpatel/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -165,5 +166,6 @@ Thanks for visiting my repository! 😊
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/1109sahilpatel/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/1109sahilpatel/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
