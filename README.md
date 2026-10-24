@@ -98,6 +98,7 @@ Thanks for visiting my repository! 😊
 | [0145-binary-tree-postorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/1109sahilpatel/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Thanks for visiting my repository! 😊
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/1109sahilpatel/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Thanks for visiting my repository! 😊
 | [0145-binary-tree-postorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/1109sahilpatel/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -127,6 +130,7 @@ Thanks for visiting my repository! 😊
 | [0145-binary-tree-postorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/1109sahilpatel/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Stack
 |  |
 | ------- |
@@ -174,4 +178,8 @@ Thanks for visiting my repository! 😊
 | [0191-number-of-1-bits](https://github.com/1109sahilpatel/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/1109sahilpatel/LeetCode/tree/master/0338-counting-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/1109sahilpatel/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/1109sahilpatel/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
