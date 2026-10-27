@@ -205,4 +205,12 @@ Thanks for visiting my repository! 😊
 | [0450-delete-node-in-a-bst](https://github.com/1109sahilpatel/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/1109sahilpatel/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/1109sahilpatel/LeetCode/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/1109sahilpatel/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
