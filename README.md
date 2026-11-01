@@ -75,6 +75,7 @@ Thanks for visiting my repository! 😊
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/1109sahilpatel/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/1109sahilpatel/LeetCode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -213,4 +214,12 @@ Thanks for visiting my repository! 😊
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/1109sahilpatel/LeetCode/tree/master/0052-n-queens-ii) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/1109sahilpatel/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/1109sahilpatel/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
