@@ -79,6 +79,7 @@ Thanks for visiting my repository! 😊
 | [0066-plus-one](https://github.com/1109sahilpatel/LeetCode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/1109sahilpatel/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/1109sahilpatel/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/1109sahilpatel/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -86,6 +87,7 @@ Thanks for visiting my repository! 😊
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/1109sahilpatel/LeetCode/tree/master/0066-plus-one) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/1109sahilpatel/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/1109sahilpatel/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/1109sahilpatel/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/1109sahilpatel/LeetCode/tree/master/2235-add-two-integers) |
