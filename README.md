@@ -76,6 +76,7 @@ Thanks for visiting my repository! 😊
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/1109sahilpatel/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/1109sahilpatel/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/1109sahilpatel/LeetCode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -162,6 +163,7 @@ Thanks for visiting my repository! 😊
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/1109sahilpatel/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/1109sahilpatel/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -203,6 +205,7 @@ Thanks for visiting my repository! 😊
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/1109sahilpatel/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/1109sahilpatel/LeetCode/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
@@ -239,11 +242,13 @@ Thanks for visiting my repository! 😊
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/1109sahilpatel/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1109sahilpatel/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/1109sahilpatel/LeetCode/tree/master/0042-trapping-rain-water) |
 ## String Matching
 |  |
 | ------- |
