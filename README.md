@@ -98,6 +98,7 @@ Thanks for visiting my repository! 😊
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -129,6 +130,7 @@ Thanks for visiting my repository! 😊
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -150,6 +152,7 @@ Thanks for visiting my repository! 😊
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/1109sahilpatel/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -216,6 +219,7 @@ Thanks for visiting my repository! 😊
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/1109sahilpatel/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/1109sahilpatel/LeetCode/tree/master/0450-delete-node-in-a-bst) |
