@@ -84,6 +84,7 @@ Thanks for visiting my repository! 😊
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/1109sahilpatel/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1313-decompress-run-length-encoded-list](https://github.com/1109sahilpatel/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/1109sahilpatel/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/1109sahilpatel/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/1109sahilpatel/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
@@ -177,11 +178,13 @@ Thanks for visiting my repository! 😊
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/1109sahilpatel/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/1109sahilpatel/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/1109sahilpatel/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/1109sahilpatel/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/1109sahilpatel/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Lifting
 |  |
@@ -257,6 +260,7 @@ Thanks for visiting my repository! 😊
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1109sahilpatel/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/1109sahilpatel/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/1109sahilpatel/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String Matching
 |  |
 | ------- |
