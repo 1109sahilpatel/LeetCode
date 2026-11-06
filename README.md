@@ -211,6 +211,7 @@ Thanks for visiting my repository! 😊
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/1109sahilpatel/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/1109sahilpatel/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -261,6 +262,7 @@ Thanks for visiting my repository! 😊
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1109sahilpatel/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/1109sahilpatel/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/1109sahilpatel/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/1109sahilpatel/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
