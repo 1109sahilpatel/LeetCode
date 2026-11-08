@@ -93,6 +93,7 @@ Thanks for visiting my repository! 😊
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/1109sahilpatel/LeetCode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/1109sahilpatel/LeetCode/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/1109sahilpatel/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/1109sahilpatel/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/1109sahilpatel/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -294,4 +295,12 @@ Thanks for visiting my repository! 😊
 | ------- |
 | [0724-find-pivot-index](https://github.com/1109sahilpatel/LeetCode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/1109sahilpatel/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/1109sahilpatel/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/1109sahilpatel/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
