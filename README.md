@@ -96,6 +96,7 @@ Thanks for visiting my repository! 😊
 | [0258-add-digits](https://github.com/1109sahilpatel/LeetCode/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/1109sahilpatel/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/1109sahilpatel/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0507-perfect-number](https://github.com/1109sahilpatel/LeetCode/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/1109sahilpatel/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/1109sahilpatel/LeetCode/tree/master/2235-add-two-integers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/1109sahilpatel/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
