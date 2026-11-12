@@ -85,6 +85,7 @@ Thanks for visiting my repository! 😊
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/1109sahilpatel/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/1109sahilpatel/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/1109sahilpatel/LeetCode/tree/master/0724-find-pivot-index) |
+| [0994-rotting-oranges](https://github.com/1109sahilpatel/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1313-decompress-run-length-encoded-list](https://github.com/1109sahilpatel/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/1109sahilpatel/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -136,6 +137,7 @@ Thanks for visiting my repository! 😊
 | [0515-find-largest-value-in-each-tree-row](https://github.com/1109sahilpatel/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/1109sahilpatel/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/1109sahilpatel/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/1109sahilpatel/LeetCode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -316,4 +318,5 @@ Thanks for visiting my repository! 😊
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/1109sahilpatel/LeetCode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/1109sahilpatel/LeetCode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
