@@ -76,6 +76,7 @@ Thanks for visiting my repository! 😊
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/1109sahilpatel/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1109sahilpatel/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/1109sahilpatel/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/1109sahilpatel/LeetCode/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -188,6 +189,7 @@ Thanks for visiting my repository! 😊
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1109sahilpatel/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/1109sahilpatel/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/1109sahilpatel/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
