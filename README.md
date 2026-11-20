@@ -186,6 +186,7 @@ Thanks for visiting my repository! 😊
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/1109sahilpatel/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/1109sahilpatel/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/1109sahilpatel/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0682-baseball-game](https://github.com/1109sahilpatel/LeetCode/tree/master/0682-baseball-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -298,6 +299,7 @@ Thanks for visiting my repository! 😊
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/1109sahilpatel/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/1109sahilpatel/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
