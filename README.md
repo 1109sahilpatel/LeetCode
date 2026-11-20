@@ -80,6 +80,7 @@ Thanks for visiting my repository! 😊
 | [0035-search-insert-position](https://github.com/1109sahilpatel/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/1109sahilpatel/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/1109sahilpatel/LeetCode/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/1109sahilpatel/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/1109sahilpatel/LeetCode/tree/master/0200-number-of-islands) |
@@ -183,6 +184,7 @@ Thanks for visiting my repository! 😊
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/1109sahilpatel/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/1109sahilpatel/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/1109sahilpatel/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -272,6 +274,7 @@ Thanks for visiting my repository! 😊
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/1109sahilpatel/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/1109sahilpatel/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/1109sahilpatel/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
@@ -328,4 +331,8 @@ Thanks for visiting my repository! 😊
 | ------- |
 | [0200-number-of-islands](https://github.com/1109sahilpatel/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/1109sahilpatel/LeetCode/tree/master/0994-rotting-oranges) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/1109sahilpatel/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
